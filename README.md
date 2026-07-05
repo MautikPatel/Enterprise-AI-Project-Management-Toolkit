@@ -1,4 +1,4 @@
-# Enterprise Project Management Toolkit
+# 🤖 Enterprise AI Project Management Toolkit 📊
 
 A complete, end-to-end project management documentation toolkit built for the delivery of the **Enterprise AI Knowledge Assistant** \u2014 a private, locally hosted Retrieval-Augmented Generation (RAG) platform (LangChain, Ollama, Qwen2.5, ChromaDB, Streamlit) that lets organizations ask natural-language questions over their own enterprise documents and receive accurate, source-cited answers.
 
@@ -15,31 +15,31 @@ Enterprise-Project-Management-Toolkit/
 ├── LICENSE
 └── Documents/
     ├── 01_Project_Initiation/
-    │   ├── Executive_Brief_PR_FAQ.docx
-    │   └── Project_Charter.docx
+    │   ├── Executive_Brief_PR_FAQ.pdf
+    │   └── Project_Charter.pdf
     ├── 02_Requirements/
-    │   ├── BRD.docx
-    │   ├── FRD.docx
-    │   └── PRD.docx
+    │   ├── BRD.pdf
+    │   ├── FRD.pdf
+    │   └── PRD.pdf
     ├── 03_Architecture_Design/
-    │   └── Technical_Design_Document.docx
+    │   └── Technical_Design_Document.pdf
     ├── 04_Project_Planning/
-    │   ├── Project_Plan.docx
-    │   ├── RACI_Matrix.docx
-    │   └── Stakeholder_Register_Communication_Plan.docx
+    │   ├── Project_Plan.pdf
+    │   ├── RACI_Matrix.pdf
+    │   └── Stakeholder_Register_Communication_Plan.pdf
     ├── 05_Governance_Risk/
-    │   ├── Infrastructure_Capacity_Plan.docx
-    │   ├── Enterprise_Readiness_SLA.docx
-    │   ├── AI_Risk_Evaluation_Safety_Case.docx
-    │   └── RAID_Log_Risk_Register.docx
+    │   ├── Infrastructure_Capacity_Plan.pdf
+    │   ├── Enterprise_Readiness_SLA.pdf
+    │   ├── AI_Risk_Evaluation_Safety_Case.pdf
+    │   └── RAID_Log_Risk_Register.pdf
     ├── 06_Testing_Quality/
-    │   └── Test_Plan_UAT_SignOff.docx
+    │   └── Test_Plan_UAT_SignOff.pdf
     ├── 07_Project_Execution/
-    │   └── Weekly_Client_Status_Update.docx
+    │   └── Weekly_Client_Status_Update.pdf
     ├── 08_Go_Live/
-    │   └── Launch_Readiness_Review.docx
+    │   └── Launch_Readiness_Review.pdf
     └── 09_Project_Closure/
-        └── Post_Implementation_Review.docx
+        └── Post_Implementation_Review.pdf
 ```
 
 ## Document Guide
@@ -68,6 +68,51 @@ Enterprise-Project-Management-Toolkit/
 
 The Enterprise AI Knowledge Assistant transforms disconnected enterprise documents (PDF, DOCX, PPTX, XLSX, TXT, CSV, EML, and image formats via OCR) into a single, private, searchable knowledge base. It runs entirely on local infrastructure using Ollama-hosted models and ChromaDB, so no document content or query ever leaves the organization's environment. Every AI-generated answer is accompanied by a citation back to its source document, ensuring transparency and auditability. The toolkit in this repository documents the full project lifecycle used to plan, build, and launch that product, with the initial pilot scoped to the Project & Program Management knowledge domain.
 
-## License
+# 👨‍💻 About the Author
 
-This toolkit is released under the MIT License. See [LICENSE](./LICENSE) for details.
+## Mautik Patel
+
+**Enterprise Data, Analytics & AI Transformation Professional**
+
+Passionate about transforming complex business data into meaningful insights through modern Business Intelligence, Analytics, and AI-driven solutions. With expertise spanning healthcare, enterprise reporting, and executive analytics, I design scalable, data-driven solutions that enable organizations to make informed strategic decisions.
+
+### 💼 Areas of Expertise
+
+- 📊 Enterprise Business Intelligence Solutions
+- 📈 Microsoft Power BI & Executive Dashboard Design
+- 🧠 DAX & Advanced Data Modeling
+- 🔄 Power Query (ETL) & Data Transformation
+- 🗄️ SQL Server & Data Warehousing
+- 🏥 Healthcare Analytics & KPI Reporting
+- 📐 Star Schema & Semantic Model Design
+- ⚙️ Enterprise ETL Development
+- 🤖 AI-Driven Analytics & Data Strategy
+- ☁️ Microsoft Fabric (Currently Learning)
+
+### 🌐 Connect
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mautikpatel
+- 💻 **GitHub:** [*Explore more enterprise analytics and AI projects*](https://github.com/MautikPatel)
+
+> *"Turning Data into Decisions. Turning Insights into Impact."*
+
+---
+
+<p align="center">
+
+## ⭐ Thank You for Visiting
+
+If you found this project helpful, please consider giving it a **⭐ Star** on GitHub. Your support, feedback, and suggestions are always appreciated.
+<br>
+### Built with ❤️ **Designed & Developed by Mautik Patel**
+
+*Enterprise Data • Analytics • AI Transformation*
+
+🚀 *Turning Data into Decisions. Turning Insights into Impact.*
+
+</p>
+
+---
+
+## 📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
